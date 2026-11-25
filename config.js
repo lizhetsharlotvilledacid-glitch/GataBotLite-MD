@@ -221,3 +221,4 @@ unwatchFile(file)
 console.log(chalk.bold.greenBright(lenguajeGB['smsConfigBot']().trim()))
 import(`${file}?update=${Date.now()}`)
 })
+#lovewith #happywith #Facepalm #embarazar
